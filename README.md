@@ -46,3 +46,7 @@ LimeVR 因该会作为 SlimeVR 的一部分，保持可选的通用性但也应�
 的文档要是写的更详细点，或许我现在也不会失去动力了吧
 谁能想到所有技术栈里 freertos 和抄来的 kalmanFilter 都能弄好
 最后被一个 i2c 和 spi 的驱动教训呢
+
+## --.UNlicense
+
+This is free and unencumbered software released into the public domain.
